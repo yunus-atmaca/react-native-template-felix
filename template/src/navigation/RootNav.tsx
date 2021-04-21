@@ -12,8 +12,7 @@ const Stack = createStackNavigator()
 import Splash from '../screens/Splash'
 import Main from '../screens/Main'
 
-function Root() {
-
+function RootNav() {
   return (
     <SafeAreaProvider>
       <NavigationContainer>
@@ -26,4 +25,4 @@ function Root() {
   )
 }
 
-export default Root
+export default RootNav
