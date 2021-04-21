@@ -1,0 +1,24 @@
+{
+  "name": "react-native-template-felix",
+  "version": "0.0.1",
+  "description": "Custom template for React-Native",
+  "scripts": {},
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunus-atmaca/react-native-template-felix.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Yunus ATMACA <yunusatmacabm@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/yunus-atmaca/react-native-template-felix.git#readme"
+}
